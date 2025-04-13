@@ -4,27 +4,27 @@
 
 ## Features
 
-- **Responsive Design** – Works smoothly across mobile, tablet, and desktop.
-- **Search Functionality** – Instantly search for anime titles.
-- **Categorized Listings** – Browse anime by genre, popularity, or release date.
-- **Detailed Anime Pages** – View full information about each anime including episodes and descriptions.
-- **User Authentication** – Login and registration system for personalized user experience.
-- **Admin Panel** – Easy-to-use dashboard to manage content and users.
+      - **Responsive Design** – Works smoothly across mobile, tablet, and desktop.
+      - **Search Functionality** – Instantly search for anime titles.
+      - **Categorized Listings** – Browse anime by genre, popularity, or release date.
+      - **Detailed Anime Pages** – View full information about each anime including episodes and descriptions.
+      - **User Authentication** – Login and registration system for personalized user experience.
+      - **Admin Panel** – Easy-to-use dashboard to manage content and users.
 
 ## Technologies Used
 
-### Frontend:
-- HTML5, CSS3, SCSS
-- JavaScript
-- Bootstrap
-
-### Backend:
-- PHP
-- MySQL
-
-### Other Tools:
-- Font Awesome (for icons)
-- jQuery (for DOM handling and AJAX)
+      ### Frontend:
+      - HTML5, CSS3, SCSS
+      - JavaScript
+      - Bootstrap
+      
+      ### Backend:
+      - PHP
+      - MySQL
+      
+      ### Other Tools:
+      - Font Awesome (for icons)
+      - jQuery (for DOM handling and AJAX)
 
 ## Installation
 
@@ -35,7 +35,7 @@
 
 Make sure PHP and MySQL are installed.
 
-Import the SQL file (database.sql or similar) into your MySQL database.
+Setup the SQL file (database.sql or similar) into your MySQL database.
 
 Update config/config.php with your database credentials.
 
@@ -44,8 +44,10 @@ Update config/config.php with your database credentials.
 Place the project folder inside your server root (e.g., htdocs if using XAMPP).
 
 Open your browser and go to:
-http://localhost/Animemain-Streaming-Platform/
-Contributing
+
+      http://localhost/Animemain-Streaming-Platform/
+Contributing:
+
 Feel free to fork the repository and submit pull requests. If you encounter any issues, please open an issue.
 
 
