@@ -48,5 +48,5 @@ http://localhost/Animemain-Streaming-Platform/
 Contributing
 Feel free to fork the repository and submit pull requests. If you encounter any issues, please open an issue.
 
-License
-This project is licensed under the
+
+
