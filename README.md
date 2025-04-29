@@ -25,6 +25,16 @@
       ### Other Tools:
       - Font Awesome (for icons)
       - jQuery (for DOM handling and AJAX)
+## 📸 Screenshots
+
+###  Categories Page
+![Categories](image/Categories.png)
+
+### 🏠 Dashboard View
+![Dashboard](image/homepage.png)
+
+### 📋 Profile
+![Profile Page](image/front-page.png)
 
 ## Installation
 
