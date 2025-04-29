@@ -28,7 +28,7 @@
 ## 📸 Screenshots
 
 ###  Categories Page
-![Categories](image/Categories.png)
+![Categories](image/categories.png)
 
 ### 🏠 Dashboard View
 ![Dashboard](image/homepage.png)
