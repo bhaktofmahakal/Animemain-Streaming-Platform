@@ -32,9 +32,11 @@
 
 ---
 
-## 📁 Project Structure
 
 ## 📁 Project Structure
+
+<details>
+<summary>Click to expand</summary>
 
       Animemain-Streaming-Platform/
       ├── admin/                      # Admin dashboard for managing content and users
@@ -74,6 +76,7 @@
       ├── README.md                   # Project documentation
       └── LICENSE                    # License information
 
+</details>
 
 ---
 
