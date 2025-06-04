@@ -83,13 +83,13 @@
 ## 📸 Screenshots
 
 ### 🎬 Categories Page  
-![Categories](/images/categories.png)
+![Categories](/image/categories.png)
 
 ### 🏠 Home Dashboard  
-![Dashboard](/images/homepage.png)
+![Dashboard](/image/home-page.png)
 
 ### 👤 User Profile  
-![Profile](/images/profile.png)
+![Profile](/image/front-page.png)
 
 ---
 
