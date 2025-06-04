@@ -125,7 +125,6 @@ Special thanks to open-source creators, icon libraries, and anime APIs
   <img src="https://img.shields.io/badge/Database-MySQL-yellow?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" />
   <img src="https://img.shields.io/badge/Frontend-HTML5%2C%20CSS3%2C%20JavaScript-orange?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend" />
   <img src="https://img.shields.io/badge/AJAX-Real--Time-lightgrey?style=for-the-badge&logo=ajax" alt="AJAX" />
-  <img src="https://img.shields.io/badge/AI-Gemini%20API-purple?style=for-the-badge&logo=googlecloud" alt="Gemini AI" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
