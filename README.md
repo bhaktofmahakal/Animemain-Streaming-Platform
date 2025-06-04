@@ -86,14 +86,43 @@
 
 ## 📸 Screenshots
 
+> ✨ Key UI pages of the blog platform
+
+---
+
 ### 🎬 Categories Page  
-![Categories](/image/categories.png)
+<div align="center">
+  <img src="/image/categories.png" alt="Categories Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+</div>
+
+---
 
 ### 🏠 Home Dashboard  
-![Dashboard](/image/homepage.png)
+<div align="center">
+  <img src="/image/homepage.png" alt="Home Dashboard" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+</div>
+
+---
 
 ### 👤 User Profile  
-![Profile](/image/front-page.png)
+<div align="center">
+  <img src="/image/front-page.png" alt="User Profile" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+</div>
+
+---
+
+### 🔐 Login Page  
+<div align="center">
+  <img src="/image/login.png" alt="Login Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+</div>
+
+---
+
+### 📝 Register Page  
+<div align="center">
+  <img src="/image/register.png" alt="Register Page" width="80%" style="border-radius: 12px; border: 1px solid #ccc;" />
+</div>
+
 
 ---
 
