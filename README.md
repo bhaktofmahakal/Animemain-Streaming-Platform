@@ -1,4 +1,7 @@
-# 🌸 Animemain – Anime Streaming Platform
+
+# 🌸 Animemain – Anime Streaming Platform 
+
+![Frontend Badge](https://img.shields.io/badge/Frontend-HTML5%2C%20CSS3%2C%20JavaScript-orange?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Animemain Banner](image/anime.png)
 
