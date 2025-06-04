@@ -1,7 +1,7 @@
 
 # 🌸 Animemain – Anime Streaming Platform 
 
-![Frontend Badge](https://img.shields.io/badge/Animemain-Your&&Ultimate&&Destination&&For&&Anime-orange?style=for-the-badge&logo=html5&logoColor=white)
+[Frontend Badge](https://img.shields.io/badge/Animemain-Your%20Ultimate%20Destination%20For%20Anime-orange?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Animemain Banner](image/anime.png)
 
