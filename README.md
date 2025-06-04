@@ -83,13 +83,13 @@
 ## 📸 Screenshots
 
 ### 🎬 Categories Page  
-![Categories](https://github.com/bhaktofmahakal/Animemain-Streaming-Platform/blob/main/assets/images/categories.png)
+![Categories](/images/categories.png)
 
 ### 🏠 Home Dashboard  
-![Dashboard](https://github.com/bhaktofmahakal/Animemain-Streaming-Platform/blob/main/assets/images/homepage.png)
+![Dashboard](/images/homepage.png)
 
 ### 👤 User Profile  
-![Profile](https://github.com/bhaktofmahakal/Animemain-Streaming-Platform/blob/main/assets/images/profile.png)
+![Profile](/images/profile.png)
 
 ---
 
