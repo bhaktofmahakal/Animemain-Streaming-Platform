@@ -1,6 +1,6 @@
 # 🌸 Animemain – Anime Streaming Platform
 
-![Animemain Banner](https://github.com/bhaktofmahakal/Animemain-Streaming-Platform/blob/main/assets/images/banner.png)
+![Animemain Banner](image/anime.png)
 
 **Animemain** is a dynamic, full-stack web application designed for anime enthusiasts to explore, stream, and manage anime content online. With an intuitive user interface, the platform allows users to browse anime by categories, search for specific titles, and view detailed information including episodes and descriptions.
 
