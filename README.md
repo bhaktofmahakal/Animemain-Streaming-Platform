@@ -86,7 +86,7 @@
 ![Categories](/image/categories.png)
 
 ### 🏠 Home Dashboard  
-![Dashboard](/image/home-page.png)
+![Dashboard](/image/homepage.png)
 
 ### 👤 User Profile  
 ![Profile](/image/front-page.png)
