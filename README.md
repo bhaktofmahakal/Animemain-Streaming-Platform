@@ -3,8 +3,13 @@
 
 [![Frontend Badge](https://img.shields.io/badge/Animemain-Your%20Ultimate%20Anime%20Destination-FF69B4?style=for-the-badge&logo=html5&logoColor=white&colorA=8A2BE2)](https://animemain.example.com)
 
+<!-- 🚀 High-Impact GitHub Banner -->
+<p align="center">
+  <img src="image/anime.png" alt="Anime Project Banner" width="100%" style="max-width: 1200px; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.3);">
+</p>
 
-![Animemain Banner](image/anime.png)
+
+<!-- ![Animemain Banner](image/anime.png) -->
 
 **Animemain** is a dynamic, full-stack web application designed for anime enthusiasts to explore, stream, and manage anime content online. With an intuitive user interface, the platform allows users to browse anime by categories, search for specific titles, and view detailed information including episodes and descriptions.
 
