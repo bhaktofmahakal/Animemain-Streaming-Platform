@@ -42,11 +42,11 @@ CREATE TABLE IF NOT EXISTS `admins` (
 --
 -- Dumping data for table `admins`
 --
--- Default admin credentials: email: admin@anime.com / password: admin123
+-- Default admin credentials: email: admin@example.com / password hash: $2y$10$PYALDOrXTKOVfqmyLBGEoepRpLyOub2ITx79k9kptwY1YJAPFYxve
 --
 
 INSERT INTO `admins` (`id`, `email`, `adminname`, `password`, `created_at`) VALUES
-(1, 'moviesn532@gmail.com', 'moviesn532@gmail.com', '$2y$10$PYALDOrXTKOVfqmyLBGEoepRpLyOub2ITx79k9kptwY1YJAPFYxve', '2025-04-07 10:51:54');
+(1, 'admin@example.com', 'admin@example.com', '$2y$10$PYALDOrXTKOVfqmyLBGEoepRpLyOub2ITx79k9kptwY1YJAPFYxve', '2025-04-07 10:51:54');
 
 -- --------------------------------------------------------
 
@@ -198,12 +198,12 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 -- Dumping data for table `users`
 --
--- Default user credentials: email: user@anime.com / password: user123
+-- Sample user credentials: password for all sample users is: password
 --
 
 INSERT INTO `users` (`id`, `email`, `username`, `password`, `created_at`) VALUES
-(2, 'moviesf14@gmail.com', 'moviesf14', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', '2024-05-20 11:00:00'),
-(3, 'moviesf14@gmail.com', 'moviesf14@gmail.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', '2025-04-07 04:50:00');
+(2, 'user@example.com', 'sampleuser', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', '2024-05-20 11:00:00'),
+(3, 'user2@example.com', 'sampleuser2', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', '2025-04-07 04:50:00');
 
 -- --------------------------------------------------------
 
