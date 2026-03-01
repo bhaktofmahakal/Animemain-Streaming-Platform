@@ -280,6 +280,7 @@ coverage/
 *.sqlite3
 *.db
 *.sql
+!anime.sql
 *.sql.gz
 *.db-shm
 *.db-wal
